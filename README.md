@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Pereira</h1>
-<h3 align="center">Working as Salesforce Marketing Cloud Developer</h3>
+<h3 align="center">Salesforce Marketing Cloud Developer</h3>
 
 <h3 align="left">Contacth me at:</h3>
 <p align="left">
