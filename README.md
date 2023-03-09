@@ -4,7 +4,6 @@
 <h3 align="left">Contacth me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pereira-rodrigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pereira-rodrigo/" height="30" width="40" /></a>
-</p>
 <a href="mailto:rodrigo58@live.com.pt">
   <img align="left" alt="Rodrigo Pereira Email" width="25px" src="https://github.com/pereira18/pereira18/blob/main/Outlook.com_icon.svg" />
 </a>
